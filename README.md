@@ -1,1 +1,1 @@
-# paddle-sport
+# PaddleSport
